@@ -5,7 +5,7 @@ Instructors: Dr. Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero))  </
 Teaching Assistants (TAs): Lily Huang  </br>
 Original materials created by Dr. Tristan Carland  </br> </br>
 
-This course spans 9 weeks and is part of the X certification program <br>
+This course spans 9 weeks and is part of the [Applied Bioinformatics certification program](https://extendedstudies.ucsd.edu/courses-and-programs/applied-bioinformatics) <br>
 
 ## Course Outcomes
 In this course, you will 
