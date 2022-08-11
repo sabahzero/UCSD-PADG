@@ -2,8 +2,8 @@
 Welcome to the Processing Actionable Data in Genomics course offered at [UC San Diego Extension](https://tinyurl.com/y64fxs46). </br>
 
 Instructors: Dr. Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero))  </br> 
-Teaching Assistants (TAs): Lily Huang  </br>
-Original materials created by Dr. Tristan Carland  </br> </br>
+Teaching Assistants (TAs): Lily Huang ([@liih005](https://github.com/liih005))  </br>
+Original materials created by Dr. Tristan Carland ([@carlandt](https://github.com/carlandt)) </br> </br>
 
 This course spans 9 weeks and is part of the [Applied Bioinformatics certification program](https://extendedstudies.ucsd.edu/courses-and-programs/applied-bioinformatics) <br>
 
