@@ -24,7 +24,7 @@ Assignments: reporting and project discussion
 
 ## Prerequisites
 * Introduction to Genetics and Human Disease (BIOL-40280): Provides an understanding of genetics
-* Python for Informatics (CSE-41225: Provides an understanding of programming
+* Python for Informatics (CSE-41225: Provides an understanding of programming)
 
 
 ## How to Get Help? 
