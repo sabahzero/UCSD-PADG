@@ -32,3 +32,5 @@ Assignments: reporting and project discussion
 If the answer is available, post the original question and answer you found [as an Issue](https://github.com/sabahzero/UCSD-PADG/labels) with the 'question' label. Be sure to close the issue with the answer you found (including relevant resource links) after opening it. You will need [a Github account](https://www.youtube.com/watch?v=f_XsJIHSLRg) to do this.
 2. If the answer is not available online, post it as a question-labeled Issue and pend for a response from the Instructors or TAs. Who knows, perhaps another student had also encountered the same issue and can answer it too!
 3. If the obstacle is something more personal, such as a specific installation issue unique to your computer alone, reach out to the instructors. Any question is better than no question at all, and often we all learn from them (not just students)!
+
+
