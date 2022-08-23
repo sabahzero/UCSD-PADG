@@ -1,4 +1,4 @@
-# Processing Actionable Data in Genomics (PAFG -- Fall 2022)
+# Processing Actionable Data in Genomics (PADG: Fall 2022)
 Welcome to the Processing Actionable Data in Genomics course offered at [UC San Diego Extension](https://tinyurl.com/y64fxs46). </br>
 
 Instructors: Dr. Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero))  </br> 
